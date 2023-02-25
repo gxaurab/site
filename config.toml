@@ -1,4 +1,4 @@
-baseURL = 'http://gxrb.org/'
+baseURL = 'https://gxaurab.github.io/site'
 languageCode = 'en-us'
 title = 'gxaurab'
 theme = 'ananke'

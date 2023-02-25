@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on gxaurab</title>
+    <link>http://gxrb.org/posts/</link>
+    <description>Recent content in Posts on gxaurab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Feb 2023 16:34:34 +0545</lastBuildDate><atom:link href="http://gxrb.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firstpost</title>
+      <link>http://gxrb.org/posts/firstpost/</link>
+      <pubDate>Sat, 25 Feb 2023 16:34:34 +0545</pubDate>
+      
+      <guid>http://gxrb.org/posts/firstpost/</guid>
+      <description>WELCOME TO THE GANG This is bold text, and this is emphasized text.
+Visit the discord website!</description>
+    </item>
+    
+  </channel>
+</rss>

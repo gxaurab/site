@@ -1,2 +1,4 @@
 #profile
-![How it looks](https://home/gxaurab/Pictures/Screenshots/picture.png)
+![How it looks](...)
+git config pull.ffgit config pull.ff
+

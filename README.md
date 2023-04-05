@@ -1,2 +1,2 @@
 #profile
-![How it looks](/home/gxaurab/Pictures/Screenshots/picture.png)
+![How it looks](https://home/gxaurab/Pictures/Screenshots/picture.png)
